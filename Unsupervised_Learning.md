@@ -93,7 +93,7 @@ plt.colorbar(scatter, label='Classes')
 plt.show()
 ```
 Output:
-![dimensionality_reduction_output](./images/Unsupervised_Learning/dimensionality_reduction_output.png)
+![dimensionality_reduction_output](./images/Unsupervised_Learning/dimentionality_reduction_output.png)
 
 ### Anomaly Detection:
 
