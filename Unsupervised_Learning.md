@@ -55,6 +55,7 @@ plt.ylabel('Principal Component 2')
 plt.show()
 ```
 Output:
+![clustering_output](./images/Unsupervised_Learning/clustering_output.png)
 
 ### Dimensionality Reduction:
 
@@ -92,6 +93,7 @@ plt.colorbar(scatter, label='Classes')
 plt.show()
 ```
 Output:
+![dimensionality_reduction_output](./images/Unsupervised_Learning/dimensionality_reduction_output.png)
 
 ### Anomaly Detection:
 
@@ -133,6 +135,7 @@ plt.ylabel('Feature 2')
 plt.show()
 ```
 Output:
+![anomaly_detection_output](./images/Unsupervised_Learning/anomaly_detection_output.png)
 
 ## Conclusion
 
