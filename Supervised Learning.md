@@ -63,7 +63,7 @@ plt.show()
 ```python
 Logistic Regression Accuracy: 1.00
 ```
-![image](https://github.com/user-attachments/assets/83384829-9587-4943-a2ca-5f94b84ce322)
+![logistic_regression](./images/Supervised_Learning/logistic_regression.png)
 
 #### K-Nearest Neighbors
 A non-parametric method that classifies instances based on the majority label of their nearest neighbors in the feature space.
@@ -91,7 +91,7 @@ plt.show()
 ```python
 K-Nearest Neighbors Accuracy: 1.00
 ```
-![image](https://github.com/user-attachments/assets/ba252a27-8161-49fb-bc08-38ad95d1a181)
+![knn](./images/Supervised_Learning/knn.png)
 
 #### Support Vector Machine
 A powerful classifier that finds the hyperplane which maximizes the margin between different classes.
@@ -119,7 +119,7 @@ plt.show()
 ```python
 Support Vector Machine Accuracy: 1.00
 ```
-![image](https://github.com/user-attachments/assets/1642e59c-5160-4a9b-a5ae-8e84e29c03d6)
+![svm](./images/Supervised_Learning/svm.png)
 
 #### Random Forest
 An ensemble method that builds multiple decision trees and merges their results for more accurate and stable predictions.
@@ -147,7 +147,7 @@ plt.show()
 ```python
 Random Forest Accuracy: 1.00
 ```
-![image](https://github.com/user-attachments/assets/192fab24-bdbe-4123-b21e-50083b2aa915)
+![random_forest](./images/Supervised_Learning/random_forest.png)
 
 ## Regression
 
