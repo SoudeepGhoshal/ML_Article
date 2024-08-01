@@ -6,7 +6,7 @@
 
 In this tutorial, we will embark on an exciting journey to teach an **AI agent** how to land on the moon. We will achieve this by setting up an environment using **Stable Baselines 3** and **OpenAI Gymnasium** to run the Lunar Lander simulation. Along the way, we will delve into essential RL concepts such as action space, observation space, and the **Proximal Policy Optimization (PPO)** algorithm.
 
-![alt text](Resources/lunar_lander_intro.gif)
+![lunar_lander_intro](./images/Reinforcement_Learning/lunar_lander_intro.gif)
 
 ## Contents
 - [Understanding the Lunar Lander Environment](#Understanding-the-Lunar-Lander-Environment)
@@ -19,7 +19,7 @@ In this tutorial, we will embark on an exciting journey to teach an **AI agent**
 
 The Lunar Lander environment is a classic control problem where the goal is to land a lunar module safely on the moon's surface. The environment provides a simulation where the agent (the lunar module) can perform actions to control its movement.
 
-![action space](Resources/space.png)
+![action space](./images/Reinforcement_Learning/space.png)
 
 ### Action Space
 
@@ -194,7 +194,7 @@ while not done:
 
 env.close()
 ```
-![lunar lander](Resources/fingif.gif)
+![lunar lander](./images/Reinforcement_Learning/fingif.gif)
 
 ## Conclusion
 In conclusion, we have explored the fascinating world of Reinforcement Learning (RL) and its application in training an AI agent to land on the moon using the Lunar Lander environment. We have learned about essential RL concepts such as action space, observation space, and the Proximal Policy Optimization (PPO) algorithm.
